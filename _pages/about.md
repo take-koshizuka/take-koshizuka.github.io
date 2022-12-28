@@ -10,4 +10,4 @@ redirect_from:
 
 機械学習の解説記事を投稿します。
 
-
+[**管理者のプロフィール**](https://sites.google.com/view/takeshi-koshizuka/home)
