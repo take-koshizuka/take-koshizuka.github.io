@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Takeshi Koshizuka / Blog"
+title                    : "Takeshi Koshizuka's Blog"
 title_separator          : "-"
 name                     : &name "Takeshi Koshizuka (越塚毅)"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Takeshi Koshizuka"
+  name             : "Takeshi Koshizuka (越塚毅)"
   avatar           : "profile.png"
-  bio              : "https://sites.google.com/view/takeshi-koshizuka/home"
+  bio              : "M2 @ Dept. CS, UTokyo"
   location         : "Tokyo"
   employer         :
   pubmed           : 
